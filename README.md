@@ -9,8 +9,11 @@ Data and analysis programs for the shallow water GNSS-A surveys conducted offsho
 
 Description and usage of the data and programs can be found at the file headers. Please be aware that some of the program settings were used to intentionally produce exactly the same figures shown in the published paper.
 
+
 GNSSA_1tp_simulation.py – program used to simulate a single transponder GNSS-A in shallow water.
+
 pos20210723.py – program used to solve for the transpoder position with data collected on 2021/07/23.
+
 posALL.py – program used to for the transpoder positions for the five surveys conducted between 2021/07/23 and 2022/03/21.
 
 
